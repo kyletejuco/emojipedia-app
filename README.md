@@ -1,6 +1,6 @@
 # Emojipedia
 
-https://codesandbox.io/s/github/kyletejuco/emojipedia-app<br>
+https://kyletejuco.github.io/emojipedia-app/<br>
 An app to display emojis and their meaning.<br>
 Created with React.<br>
 
