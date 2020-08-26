@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/kyletejuco/emojipedia-app/static/js/main.b26adec8.chunk.js",
+    "main.js.map": "/kyletejuco/emojipedia-app/static/js/main.b26adec8.chunk.js.map",
+    "runtime-main.js": "/kyletejuco/emojipedia-app/static/js/runtime-main.85c83c3d.js",
+    "runtime-main.js.map": "/kyletejuco/emojipedia-app/static/js/runtime-main.85c83c3d.js.map",
+    "static/js/2.3e2e52e3.chunk.js": "/kyletejuco/emojipedia-app/static/js/2.3e2e52e3.chunk.js",
+    "static/js/2.3e2e52e3.chunk.js.map": "/kyletejuco/emojipedia-app/static/js/2.3e2e52e3.chunk.js.map",
+    "index.html": "/kyletejuco/emojipedia-app/index.html",
+    "precache-manifest.22e3e6424ad3ff53ef9aaaa27abfa3a4.js": "/kyletejuco/emojipedia-app/precache-manifest.22e3e6424ad3ff53ef9aaaa27abfa3a4.js",
+    "service-worker.js": "/kyletejuco/emojipedia-app/service-worker.js",
+    "static/js/2.3e2e52e3.chunk.js.LICENSE.txt": "/kyletejuco/emojipedia-app/static/js/2.3e2e52e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85c83c3d.js",
+    "static/js/2.3e2e52e3.chunk.js",
+    "static/js/main.b26adec8.chunk.js"
+  ]
+}
