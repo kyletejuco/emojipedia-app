@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/kyletejuco.github.io/emojipedia-app/static/js/main.b26adec8.chunk.js",
-    "main.js.map": "/kyletejuco.github.io/emojipedia-app/static/js/main.b26adec8.chunk.js.map",
-    "runtime-main.js": "/kyletejuco.github.io/emojipedia-app/static/js/runtime-main.68685398.js",
-    "runtime-main.js.map": "/kyletejuco.github.io/emojipedia-app/static/js/runtime-main.68685398.js.map",
-    "static/js/2.3e2e52e3.chunk.js": "/kyletejuco.github.io/emojipedia-app/static/js/2.3e2e52e3.chunk.js",
-    "static/js/2.3e2e52e3.chunk.js.map": "/kyletejuco.github.io/emojipedia-app/static/js/2.3e2e52e3.chunk.js.map",
-    "index.html": "/kyletejuco.github.io/emojipedia-app/index.html",
-    "precache-manifest.a92c0d127a30f20ae51ea86a35a45354.js": "/kyletejuco.github.io/emojipedia-app/precache-manifest.a92c0d127a30f20ae51ea86a35a45354.js",
-    "service-worker.js": "/kyletejuco.github.io/emojipedia-app/service-worker.js",
-    "static/js/2.3e2e52e3.chunk.js.LICENSE.txt": "/kyletejuco.github.io/emojipedia-app/static/js/2.3e2e52e3.chunk.js.LICENSE.txt"
+    "main.js": "/emojipedia-app/static/js/main.b26adec8.chunk.js",
+    "main.js.map": "/emojipedia-app/static/js/main.b26adec8.chunk.js.map",
+    "runtime-main.js": "/emojipedia-app/static/js/runtime-main.387147cd.js",
+    "runtime-main.js.map": "/emojipedia-app/static/js/runtime-main.387147cd.js.map",
+    "static/js/2.3e2e52e3.chunk.js": "/emojipedia-app/static/js/2.3e2e52e3.chunk.js",
+    "static/js/2.3e2e52e3.chunk.js.map": "/emojipedia-app/static/js/2.3e2e52e3.chunk.js.map",
+    "index.html": "/emojipedia-app/index.html",
+    "precache-manifest.a867564fe8fb463aaeaf0f1de812a81b.js": "/emojipedia-app/precache-manifest.a867564fe8fb463aaeaf0f1de812a81b.js",
+    "service-worker.js": "/emojipedia-app/service-worker.js",
+    "static/js/2.3e2e52e3.chunk.js.LICENSE.txt": "/emojipedia-app/static/js/2.3e2e52e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.68685398.js",
+    "static/js/runtime-main.387147cd.js",
     "static/js/2.3e2e52e3.chunk.js",
     "static/js/main.b26adec8.chunk.js"
   ]
